@@ -16,7 +16,7 @@ import SupportIcon from './icons/IconSupport.vue'
 
     Lorem ipsum
     <a href="https://si.stechoq.com/" target="_blank" rel="noopener">dolor sit amet</a>
-     consectetur, adipisicing elit.
+    consectetur, adipisicing elit.
   </WelcomeItem>
 
   <WelcomeItem>
@@ -25,7 +25,7 @@ import SupportIcon from './icons/IconSupport.vue'
     </template>
     <template #heading>Back End</template>
 
-    Lorem ipsum dolor sit amet consectetur, 
+    Lorem ipsum dolor sit amet consectetur,
     <a href="https://si.stechoq.com/" target="_blank" rel="noopener">adipisicing elit.</a>
   </WelcomeItem>
 
@@ -37,7 +37,7 @@ import SupportIcon from './icons/IconSupport.vue'
 
     Lorem ipsum
     <a href="https://si.stechoq.com/" target="_blank" rel="noopener">dolor sit amet</a>
-     consectetur, adipisicing elit.
+    consectetur, adipisicing elit.
   </WelcomeItem>
 
   <WelcomeItem>
@@ -46,7 +46,7 @@ import SupportIcon from './icons/IconSupport.vue'
     </template>
     <template #heading>UI/UX</template>
 
-    Lorem ipsum dolor sit amet consectetur, 
+    Lorem ipsum dolor sit amet consectetur,
     <a href="https://si.stechoq.com/" target="_blank" rel="noopener">adipisicing elit.</a>
   </WelcomeItem>
 
@@ -56,7 +56,8 @@ import SupportIcon from './icons/IconSupport.vue'
     </template>
     <template #heading>Community Support</template>
 
-    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Suscipit eaque pariatur accusantium veniam sed quae, 
+    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Suscipit eaque pariatur accusantium
+    veniam sed quae,
     <a href="https://si.stechoq.com/" target="_blank" rel="noopener">harum ex adipisci?</a>
     Sunt, perferendis excepturi quam illo unde commodi ut perspiciatis adipisci dolorem nulla.
   </WelcomeItem>
