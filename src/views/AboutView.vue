@@ -1,6 +1,6 @@
 <template>
   <div class="about">
-    <h1>This is an about page</h1>
+    <h1>Created by <a href="https://github.com/iamfeizal/" target="_blank" rel="noopener">Imam Agus Faisal</a>.</h1>
   </div>
 </template>
 
